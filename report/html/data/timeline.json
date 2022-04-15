@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-UG8QMCO",
+    "children" : [ {
+      "name" : "1432-MainThread",
+      "children" : [ {
+        "name" : "test_user_login",
+        "uid" : "ceaf02782e1f35d1",
+        "parentUid" : "4e5a9ee9780690aad639d8fe8d7e9640",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649955116426,
+          "stop" : 1649955122012,
+          "duration" : 5586
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e5a9ee9780690aad639d8fe8d7e9640"
+    } ],
+    "uid" : "658e2cc903bfea10344ceaf80598c6a9"
+  } ]
+}

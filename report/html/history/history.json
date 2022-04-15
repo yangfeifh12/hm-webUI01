@@ -1,0 +1,21 @@
+{
+  "82e2e0db0e59c6a55833a75da66f231f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ceaf02782e1f35d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649955116426,
+        "stop" : 1649955122012,
+        "duration" : 5586
+      }
+    } ]
+  }
+}

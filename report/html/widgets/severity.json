@@ -1,0 +1,11 @@
+[ {
+  "uid" : "ceaf02782e1f35d1",
+  "name" : "test_user_login",
+  "time" : {
+    "start" : 1649955116426,
+    "stop" : 1649955122012,
+    "duration" : 5586
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
